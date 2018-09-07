@@ -1,0 +1,31 @@
+{
+  "name": "compare-files-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajax-request": "^1.2.3",
+    "cookie": "^0.3.1",
+    "diff": "^3.5.0",
+    "diff-match-patch": "^1.0.4",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "github-content": "^1.0.1",
+    "n-readlines": "^1.0.0",
+    "nonce": "^1.0.4",
+    "octonode": "^0.9.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "shopify-api-node": "^2.15.0",
+    "text-diff": "^1.0.1",
+    "text-file-diff": "^1.0.6"
+  },
+  "devDependencies": {
+    "ws": "3.3.2"
+  }
+}
